@@ -1,0 +1,103 @@
+{
+    "title" : "Migration",
+    "path" : "Migration",
+    "background" : "./content/img/backgrounds/Migration.jpg",
+    "video" : {
+        "title" : "Migration Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbmxb1CnAVEaVdMjvftzacjX\" frameBorder=\"0\" allowFullScreen></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "US Citizenship and Immigration Services",
+            "path" : "https://www.uscis.gov/"
+        },
+        {
+        	"title" : "UN Refugeee Agency",
+        	"path" : " http://www.unhcr.ch/"
+        },
+        {
+        	"title" : "The Refugee Project",
+        	"path" : "http://www.therefugeeproject.org/"
+        },
+        {
+        	"title" : "US Migration Patterns",
+        	"path" : "http://www.forbes.com/special-report/2011/migration.html"
+        },
+        {
+            "title" : "Center for Immigration Studies",
+            "path" : "http:cis.org"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Uprooted",
+    	"path" : "http://storymaps.esri.com/stories/2016/the-uprooted/"
+        }, {
+            "title" : "Katrina",
+            "path" : "http://story.maps.arcgis.com/apps/MapSeries/index.html?appid=597d573e58514bdbbeb53ba2179d2359"
+        }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 3 Key Issue 1",
+            "path" : "./content/audio/Migration/chapter3Issue1.mp3"
+        },
+        {
+            "title" : "Chapter 3 Key Issue 2",
+            "path" : "./content/audio/Migration/chapter3Issue2.mp3"
+        },
+        {
+            "title" : "Chapter 3 Key Issue 3",
+            "path" : "./content/audio/Migration/chapter3Issue3.mp3"
+        }
+    ],
+    "image" : [ 
+        {
+            "title" : "British Empire",
+            "path" : "./content/img/Migration/BritishEmprieGrowth.GIF"
+        }, 
+        {
+            "title" : "Historic US Migration Patterns",
+            "path" : "./content/img/Migration/HistoricMigrationPatternsToTheUS.GIF"
+        }, 
+        {
+            "title" : "Migration of South Asia",
+            "path" : "./content/img/Migration/MigrationOfSouthAsia.jpeg"
+        }, 
+        {
+            "title" : "Migration to Britain",
+            "path" : "./content/img/Migration/MigrationToBritian.jpg"
+        }, 
+        {
+            "title" : "Native American Lands",
+            "path" : "./content/img/Migration/NativeAmericanLands.GIF"
+        }, 
+        {
+            "title" : "Refugee Children",
+            "path" : "./content/img/Migration/RefugeeChildren.GIF"
+        }, 
+        {
+            "title" : "Refugee Map",
+            "path" : "./content/img/Migration/RefugeeMap.GIF"
+        }, 
+        {
+            "title" : "Refugee Sources",
+            "path" : "./content/img/Migration/RefugeeSources.jpeg"
+        }, 
+        {
+            "title" : "US Migration by Country",
+            "path" : "./content/img/Migration/USMigrationByCountryChart.jpeg"
+        }, 
+        {
+            "title" : "US Migration Patterns",
+            "path" : "./content/img/Migration/USMigrationPatterns.jpeg"
+        }, 
+        {
+            "title" : "The Great Migration",
+            "path" : "./content/img/Migration/TheGreatMigration.GIF"
+        }, 
+        {
+            "title" : "US Migration Patterns Graph",
+            "path" : "./content/img/Migration/USMigrationPatternsGraph.jpeg"
+        }
+    ]
+}

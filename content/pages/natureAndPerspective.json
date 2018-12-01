@@ -1,0 +1,116 @@
+{
+    "title" : "Nature and Perspective",
+    "path" : "NatureAndPerspective",
+    "background" : "./content/img/backgrounds/NatureAndPerspective.jpg",
+    "video" : {
+        "title" : "Nature and Perspective Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XVK0ro_JdYQ\" frameBorder=\"0\" allowFullScreen></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "Country Quiz",
+            "path" : "http://lizardpoint.com/geography/world-countries-quiz.php"
+        },
+        {
+        	"title" : "Geography Games",
+        	"path" : "https://www.quia.com/shared/geography/"
+        },
+        {
+        	"title" : "Geography through Travel",
+        	"path" : "http://www.lonelyplanet.com/"
+        },
+        {
+        	"title" : "All About Geography",
+        	"path" : "http://geography.about.com/"
+        },
+        {
+        	"title" : "NASA Earth Science",
+        	"path" : "http://science.nasa.gov/earth-science/"
+        },
+        {
+        	"title" : "NatGeo Mapmaker",
+        	"path" : "http://mapmaker.nationalgeographic.org/"
+        },
+        {
+            "title": "CIA World Factbook",
+            "path": "https://www.cia.gov/library/publications/resources/the-world-factbook/index.html"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Esri Map 1",
+    	"path" : "http://apps.esriuk.com/app/TimPeake/3/wmt/view/d64115f341c54560bdf7582052818809/index.html"
+    },
+    {
+        "title" : "Esri Map Two",
+        "path" : "http://story.maps.arcgis.com/apps/MapJournal/index.html?appid=d14f53dcaf7b4542a8c9110eeabccf1c"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 1 Key Issue 1",
+            "path" : "./content/audio/NatureAndPerspective/chapter1Issue1.mp3"
+        },
+        {
+            "title" : "Chapter 1 Key Issue 2",
+            "path" : "./content/audio/NatureAndPerspective/chapter1Issue2.mp3"
+        },
+        {
+            "title" : "Chapter 1 Key Issue 3",
+            "path" : "./content/audio/NatureAndPerspective/chapter1Issue3.mp3"
+        }
+    ],
+    "image" : [ 
+        {
+            "title" : "Bio Pyramid",
+            "path" : "./content/img/NatureAndPerspective/Biomepyramid.jpg"
+        }, 
+        {
+            "title" : "Game of Thrones Biomes",
+            "path" : "./content/img/NatureAndPerspective/GameOfThronesBiomes.jpg"
+        }, 
+        {
+            "title" : "Hardies vs Carls",
+            "path" : "./content/img/NatureAndPerspective/HardiesVsCarlJr.jpg"
+        }, 
+        {
+            "title" : "History of the World",
+            "path" : "./content/img/NatureAndPerspective/HistoryOfTheWorld.gif"
+        }, 
+        {
+            "title" : "Sunlight Hours",
+            "path" : "./content/img/NatureAndPerspective/HoursOfSunlight.jpeg"
+        }, 
+        {
+            "title" : "How Long is Chile?",
+            "path" : "./content/img/NatureAndPerspective/HowLongIsChile.png"
+        }, 
+        {
+            "title" : "Latin America Projections",
+            "path" : "./content/img/NatureAndPerspective/LatinAmericaProjections.gif"
+        }, 
+        {
+            "title" : "Problem with Projections",
+            "path" : "./content/img/NatureAndPerspective/ProblemsWithProjections.gif"
+        }, 
+        {
+            "title" : "Austin Projections",
+            "path" : "./content/img/NatureAndPerspective/ProjectionInAustin.png"
+        }, 
+        {
+            "title" : "More Projections",
+            "path" : "./content/img/NatureAndPerspective/Projections.jpeg"
+        }, 
+        {
+            "title" : "Latitude Comparisons",
+            "path" : "./content/img/NatureAndPerspective/US-Can-Euro latitude.jpg"
+        }, 
+        {
+            "title" : "US Map Projections",
+            "path" : "./content/img/NatureAndPerspective/USMapProjections.jpeg"
+        }, 
+        {
+            "title" : "What your Map Projection Says about You",
+            "path" : "./content/img/NatureAndPerspective/WhatMapProjectionsSayAboutYou.jpeg"
+        }
+    ]
+}

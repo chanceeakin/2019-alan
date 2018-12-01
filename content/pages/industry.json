@@ -1,0 +1,100 @@
+{
+    "title" : "Industry",
+    "path" : "Industry",
+    "background" : "./content/img/backgrounds/Industry.jpg",
+    "video" : {
+        "title" : "Industry Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbk5MGiYDZvCqlgzW6NLlNux\" frameBorder=\"0\" allowFullScreen></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "Global Poverty",
+            "path" : "http://www.worldbank.org/en/topic/poverty"
+        },
+        {
+        	"title" : "Port of Rotterdam",
+        	"path" : " https://www.portofrotterdam.com/"
+        },
+        {
+        	"title" : "The Carbon Map",
+        	"path" : "http://www.carbonmap.org/#"
+        },
+        {
+        	"title" : "Petroleum",
+        	"path" : "http://www.eia.gov/petroleum/"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Big Holes",
+    	"path" : "http://story.maps.arcgis.com/apps/MapJournal/index.html?appid=4533fec4fbb148f289bf81f9cc8adbd6"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 11 Key Issue 1",
+            "path" : "./content/audio/Industry/chapter11Issue1.mp3"
+        },
+        {
+            "title" : "Chapter 11 Key Issue 2",
+            "path" : "./content/audio/Industry/chapter11Issue2.mp3"
+        },
+        {
+            "title" : "Chapter 11 Key Issue 3",
+            "path" : "./content/audio/Industry/chapter11Issue3.mp3"
+        },
+        {
+            "title" : "Chapter 11 Key Issue 4",
+            "path" : "./content/audio/Industry/chapter11Issue4.mp3"
+        }
+    ],
+    "image" : [ 
+        {
+            "title" : "Changing Manufacturing",
+            "path" : "./content/img/Industry/ChanigInManufacturing.gif"
+        }, 
+        {
+            "title" : "Corporate Environmental Responsibility",
+            "path" : "./content/img/Industry/CorporateEnvironmentalResponsibility.jpeg"
+        }, 
+        {
+            "title" : "How much does a shirt cost?",
+            "path" : "./content/img/Industry/HowMuchDoesAShirtCost.jpg"
+        }, 
+        {
+            "title" : "Job Types by Industry",
+            "path" : "./content/img/Industry/JobTypesIndustry.png"
+        }, 
+        {
+            "title" : "Modern Slavery",
+            "path" : "./content/img/Industry/ModernSlavery.jpg"
+        }, 
+        {
+            "title" : "Oil Prices",
+            "path" : "./content/img/Industry/OilPrices.jpg"
+        }, 
+        {
+            "title" : "Pittsburgh Mill Locations",
+            "path" : "./content/img/Industry/PittsburgMillLocations.jpg"
+        }, 
+        {
+            "title" : "Price of Levis from around the world",
+            "path" : "./content/img/Industry/PriceOfLevisAroundTheWorld.png"
+        }, 
+        {
+            "title" : "Rostows Model",
+            "path" : "./content/img/Industry/RostowsModel.jpg"
+        }, 
+        {
+            "title" : "Singapore Development Over Time",
+            "path" : "./content/img/Industry/SingaporeDevelopmentOverTime.png"
+        }, 
+        {
+            "title" : "Starbucks",
+            "path" : "./content/img/Industry/starbucks.jpg"
+        }, 
+        {
+            "title" : "Wind Energy",
+            "path" : "./content/img/Industry/WindEnergy.GIF"
+        }
+    ]
+}

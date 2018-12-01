@@ -1,0 +1,144 @@
+{
+    "title" : "Political",
+    "path" : "Political",
+    "background" : "./content/img/backgrounds/Politics.jpeg",
+    "video" : {
+        "title" : "Politics Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbkRimIBRHghDhvqQW-9Ws4Y\" frameBorder=\"0\" allowFullScreen></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "Every Disputed Country",
+            "path" : "  http://metrocosm.com/disputed-territories-map.html"
+        },
+        {
+        	"title" : "European Union",
+        	"path" : "https://europa.eu/european-union/index_en"
+        },
+        {
+        	"title" : "History of the World",
+        	"path" : "http://geacron.com/home-en/?&sid=GeaCron213774"
+        },
+        {
+        	"title" : "Foreign Policy",
+        	"path" : "http://foreignpolicy.com/"
+        },
+        {
+        	"title" : "Amnesty International",
+        	"path" : "http://www.amnestyusa.org/"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Esri Map: Terrorist Attacks",
+    	"path" : "http://storymaps.esri.com/stories/2016/terrorist-attacks/"
+    },
+    {
+        "title" : "Esri Map Two",
+        "path" : "http://apl.maps.arcgis.com/apps/MapJournal/index.html?appid=14d7f584a3a246bf8c71246fc12fe7b4"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 8 Key Issue 1",
+            "path" : "./content/audio/Politics/chapter8Issue1.mp3"
+        },
+        {
+            "title" : "Chapter 8 Key Issue 2",
+            "path" : "./content/audio/Politics/chapter8Issue2.mp3"
+        },
+        {
+            "title" : "Chapter 8 Key Issue 3",
+            "path" : "./content/audio/Politics/chapter8Issue3.mp3"
+        },
+        {
+            "title" : "Chapter 8 Key Issue 4",
+            "path" : "./content/audio/Politics/chapter8Issue4.mp3"
+        }
+    ],
+    "image" : [ 
+        {
+            "title" : "Armenian Genocide",
+            "path" : "./content/img/Politics/ArmenianGenocide.jpg"
+        }, 
+        {
+            "title" : "Break up of Yugoslavia",
+            "path" : "./content/img/Politics/BreakupOfYugolavia.GIF"
+        }, 
+        {
+            "title" : "Colonialism over Time",
+            "path" : "./content/img/Politics/ColonializismOverTime.GIF"
+        }, 
+        {
+            "title" : "Effects of Terrorism",
+            "path" : "./content/img/Politics/EffectsOfTerrorism.jpg"
+        }, 
+        {
+            "title" : "European Union Member",
+            "path" : "./content/img/Politics/EuropeanUnionMember.GIF"
+        }, 
+        {
+            "title" : "Falkland Islands",
+            "path" : "./content/img/Politics/FalklandsIslands.jpg"
+        }, 
+        {
+            "title" : "German Propaganda Colonialism",
+            "path" : "./content/img/Politics/GermanPropagandaColonializm.jpg"
+        }, 
+        {
+            "title" : "Gerrymandering in Florida",
+            "path" : "./content/img/Politics/GerrymandingInFlordia.png"
+        }, 
+        {
+            "title" : "How Democracy conquered the World",
+            "path" : "./content/img/Politics/HowDemocracyConquredTheWorld.GIF"
+        }, 
+        {
+            "title" : "NATO",
+            "path" : "./content/img/Politics/NATO.GIF"
+        }, 
+        {
+            "title" : "New Possibile Nation State",
+            "path" : "./content/img/Politics/NewPossiableNationStates.jpg"
+        }, 
+        {
+            "title" : "Percentage of Women serving in State Legislation",
+            "path" : "./content/img/Politics/PercentageOfWomenServingInStateLegislatures.GIF"
+        }, 
+        {
+            "title" : "Places not under Government Control",
+            "path" : "./content/img/Politics/PlacesNotUnderGovernmentControl.png"
+        }, 
+        {
+            "title" : "Required to Vote by Law",
+            "path" : "./content/img/Politics/RequiredToVoteByLaw.jpg"
+        }, 
+        {
+            "title" : "Responsible for Defense of the Sea",
+            "path" : "./content/img/Politics/ResponsiableForDefenceInOceania.png"
+        }, 
+        {
+            "title" : "Shapes of States",
+            "path" : "./content/img/Politics/ShapesOfStates.png"
+        }, 
+        {
+            "title" : "South China Sea",
+            "path" : "./content/img/Politics/SouthChinaSea.png"
+        }, 
+        {
+            "title" : "The UK",
+            "path" : "./content/img/Politics/UK.gif"
+        }, 
+        {
+            "title" : "Ungoverned World",
+            "path" : "./content/img/Politics/UngovernedWorld.jpg"
+        }, 
+        {
+            "title" : "US Presidential Elections 1928-2012",
+            "path" : "./content/img/Politics/USPresidentialElections1928-2012.GIF"
+        }, 
+        {
+            "title" : "US Presidential Elections by County",
+            "path" : "./content/img/Politics/USPresidentialElectionsByCounty.GIF"
+        }
+    ]
+}

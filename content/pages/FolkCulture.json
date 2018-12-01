@@ -1,0 +1,100 @@
+{
+    "title" : "Folk Culture",
+    "path" : "FolkCulture",
+    "background" : "./content/img/backgrounds/folkAndCultureJumbotron.jpeg",
+    "video" : {
+        "title" : "Folk Culture Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSblaM0CJdOA96-M37Qi5L182\" frameBorder=\"0\" allowFullScreen></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "The Makah Tribe",
+            "path" : "http://makah.com/"
+        },
+        {
+        	"title" : "Hutterites",
+        	"path" : "http://www.hutterites.org/"
+        },
+        {
+        	"title" : "Irish Pub Company",
+        	"path" : "http://irishpubcompany.com/"
+        },
+        {
+        	"title" : "India Caste System",
+        	"path" : "http://www.dlshq.org/messages/caste.htm"
+        },
+        {
+        	"title" : "Culture of the Andes",
+        	"path" : "http://www.andes.org/fam_frnd.html"
+        },
+        {
+        	"title" : "Folk Culture Music",
+        	"path" : "http://www.lib.berkeley.edu/MRC/music.html#cajun"
+        },
+        {
+            "title" : "BBC Culture",
+            "path" : "http://www.bbc.com/culture/us"
+        }
+    ],
+    "esri" : [{
+    	"title" : "ESRI: First Map",
+    	"path" : "http://esripm.maps.arcgis.com/apps/MapTour/index.html?appid=eaa0878861784ebf9fea9e8505904cd0&webmap=3e746185d2de462eb7fd3b3ff54d5175"
+    },
+    {
+        "title" : "ESRI: Map Two",
+        "path" : "http://www.arcgis.com/apps/StoryMapBasic/index.html?appid=aa2d2c6c8abb4c59b04d8857222e406e"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 4 Key Issue 1",
+            "path" : "./content/audio/FolkCulture/chapter4Issue1.mp3"
+        },
+        {
+            "title" : "Chapter 4 Key Issue 2",
+            "path" : "./content/audio/FolkCulture/chapter4Issue2.mp3"
+        },
+        {
+            "title" : "Chapter 4 Key Issue 3",
+            "path" : "./content/audio/FolkCulture/chapter4Issue3.mp3"
+        },
+        {
+            "title" : "Chapter 4 Key Issue 4",
+            "path" : "./content/audio/FolkCulture/chapter4Issue4.mp3"
+        }
+    ],
+    "image" : [ 
+        {
+            "title" : "Diffusion of Hockey",
+            "path" : "./content/img/FolkCulture/DiffusionOfHockey.GIF"
+        }, 
+        {
+            "title" : "Growth of Walmart",
+            "path" : "./content/img/FolkCulture/GrowthOfWalmart.GIF"
+        }, 
+        {
+            "title" : "Internet Users",
+            "path" : "./content/img/FolkCulture/InternetUsers.GIF"
+        }, 
+        {
+            "title" : "Map of the Amish",
+            "path" : "./content/img/FolkCulture/MapOfAmish.jpeg"
+        }, 
+        {
+            "title" : "Folk Culture Map",
+            "path" : "./content/img/FolkCulture/MapOfFolkCulture.jpeg"
+        }, 
+        {
+            "title" : "Media Freedom",
+            "path" : "./content/img/FolkCulture/MediaFreedom.jpeg"
+        }, 
+        {
+            "title" : "Stoning",
+            "path" : "./content/img/FolkCulture/Stoning.jpg"
+        }, 
+        {
+            "title" : "Web Browsers",
+            "path" : "./content/img/FolkCulture/WebBrowsers.GIF"
+        }
+    ]
+}

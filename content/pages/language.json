@@ -1,0 +1,108 @@
+{
+    "title" : "Language",
+    "path" : "Language",
+    "background" : "content/img/backgrounds/language.jpg",
+    "video" : {
+        "title" : "Language Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbkCE6WoFZQqUprAZ_Cvirp-\" frameBorder=\"0\" allowFullScreen=\"\"></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "Do you speak American?",
+            "path" : "http://www.pbs.org/speak/"
+        },
+        {
+        	"title" : "Language Matters Mini Series",
+        	"path" : "http://www.languagemattersfilm.com/"
+        },
+        {
+        	"title" : "Endangered Language Map",
+        	"path" : "http://www.endangeredlanguages.com/#/3/27.322/-68.774/0/100000/0/low/mid/high/dormant/awakening/unknown"
+        },
+        {
+        	"title" : "Dialect Maps of the US",
+        	"path" : "http://www.huffingtonpost.com/2013/06/06/dialect-maps_n_3395819.html?slideshow=true#gallery/301484/0"
+        },
+        {
+        	"title" : "BBC Languages",
+        	"path" : "http://www.bbc.co.uk/languages/"
+        },
+        {
+        	"title" : "Pop vs. Soda",
+        	"path" : "http://www.popvssoda.com/"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Esri Story Map",
+    	"path" : "http://storymaps.esri.com/stories/2013/endangered-languages/"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 5 Key Issue 1",
+            "path" : "content/audio/Language/chapter5Issue1.mp3"
+        },
+        {
+            "title" : "Chapter 5 Key Issue 2",
+            "path" : "content/audio/Language/chapter5Issue2.mp3"
+        },
+        {
+            "title" : "Chapter 5 Key Issue 3",
+            "path" : "content/audio/Language/chapter5Issue3.mp3"
+        },
+        {
+            "title" : "Chapter 5 Key Issue 4",
+            "path" : "content/audio/Language/chapter5Issue4.mp3"
+        }
+    ],
+    "image" : [
+        {
+            "title" : "Linguistic Map of China",
+            "path" : "content/img/Language/ChinaLinguisticMap.jpg"
+        },
+        {
+            "title" : "Diffusion of English",
+            "path" : "content/img/Language/DiffusionOfEnglish.jpg"
+        },
+        {
+            "title" : "Hispanics In America",
+            "path" : "content/img/Language/HispanicsInAmerica.jpg"
+        },
+        {
+            "title" : "Map of Hispanics In America",
+            "path" : "content/img/Language/HispanicsInAmericaMap.jpg"
+        },
+        {
+            "title" : "Indo-European Language Origin Map",
+            "path" : "content/img/Language/IndoEuropeanLanguageOriginMap.jpg"
+        },
+        {
+            "title" : "Languages",
+            "path" : "content/img/Language/Language.png"
+        },
+        {
+            "title" : "Languages Of SouthEast Asia",
+            "path" : "content/img/Language/LanguagesOfSouthEastAsia.jpg"
+        },
+        {
+            "title" : "Language Tree",
+            "path" : "content/img/Language/LanguageTree.jpg"
+        },
+        {
+            "title" : "Another Language Tree",
+            "path" : "content/img/Language/LanguageTree1.jpg"
+        },
+        {
+            "title" : "Regional Dialects",
+            "path" : "content/img/Language/RegionalDialects.jpg"
+        },
+        {
+            "title" : "Slavic Toponyms",
+            "path" : "content/img/Language/SlavicToyponms.jpg"
+        },
+        {
+            "title" : "Welsh Language Deterioration",
+            "path" : "content/img/Language/WelshLanguageDeterioration.jpg"
+        }
+    ]
+}

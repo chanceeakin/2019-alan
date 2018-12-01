@@ -1,0 +1,91 @@
+{
+    "title" : "Development",
+    "path" : "Development",
+    "background" : "./content/img/backgrounds/Development.jpg",
+    "video" : {
+        "title" : "Agriculture Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbkRimIBRHghDhvqQW-9Ws4Y\" frameBorder=\"0\" allowFullScreen></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "Big Mac Index",
+            "path" : "http://www.economist.com/content/big-mac-index"
+        },
+        {
+        	"title" : "Human Development Reports",
+        	"path" : "http://hdr.undp.org/en/reports/default.cfm"
+        },
+        {
+        	"title" : "Toilets from around the world",
+        	"path" : "https://www.theguardian.com/travel/gallery/2016/apr/12/amazing-toilets-around-the-world-in-pictures"
+        },
+        {
+        	"title" : "Gender Wage Gap Calculator",
+        	"path" : "https://www.omnicalculator.com/other/gender-wage-gap"
+        }
+    ],
+    "esri" : [{
+    	"title" : "ESRI: Map Journal",
+    	"path" : "http://sdgs.maps.arcgis.com/apps/MapJournal/index.html?appid=c921e7d2cfef4c8ab98b839e27eda74a"
+    }
+    ],
+    "audio" : [{
+        "title": "Chapter 9 Key Issue 1",
+        "path": "./content/audio/Development/chapter9keyissue1.mp3"
+    }, {
+        "title": "Chapter 9 Key Issue 2",
+        "path": "./content/audio/Development/chapter9keyissue2.mp3"
+    }, {
+        "title": "Chapter 9 Key Issue 3",
+        "path": "./content/audio/Development/chapter9keyissue3.mp3"
+    }, {
+        "title": "Chapter 9 Key Issue 4",
+        "path": "./content/audio/Development/chapter9keyissue3.mp3"
+    }],
+    "image" : [ 
+        {
+            "title" : "Chinese Investment in Africa",
+            "path" : "./content/img/Development/ChineseInvestmentInAfrica.jpeg"
+        }, 
+        {
+            "title" : "Coal Production",
+            "path" : "./content/img/Development/CoalProduction.gif"
+        }, 
+        {
+            "title" : "Debt to Gross Domestic Product",
+            "path" : "./content/img/Development/DebtToGDP.jpeg"
+        }, 
+        {
+            "title" : "Dubai Growth",
+            "path" : "./content/img/Development/DubaiGrowth.GIF"
+        }, 
+        {
+            "title" : "Exports by Country",
+            "path" : "./content/img/Development/EveryCountriesExport.jpeg"
+        }, 
+        {
+            "title" : "Free Trade Companies",
+            "path" : "./content/img/Development/FreeTradeCompanies.jpeg"
+        }, 
+        {
+            "title" : "Map of HDI",
+            "path" : "./content/img/Development/MapOfHDI.jpeg"
+        }, 
+        {
+            "title" : "PPP by State",
+            "path" : "./content/img/Development/PPPByState.png"
+        }, 
+        {
+            "title" : "PPP of Europe",
+            "path" : "./content/img/Development/PPPOfEurope.jpg"
+        }, 
+        {
+            "title" : "Top Renewable Energy Countries",
+            "path" : "./content/img/Development/TopRenewableEnergyCountries.jpeg"
+        }, 
+        {
+            "title" : "Who has the Oil?",
+            "path" : "./content/img/Agriculture/WhoHasTheOil.jpeg"
+        }
+    ]
+}

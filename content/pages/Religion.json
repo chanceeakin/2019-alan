@@ -1,0 +1,103 @@
+{
+    "title" : "Religion",
+    "path" : "Religion",
+    "background" : "./content/img/backgrounds/Religion.jpeg",
+    "video" : {
+        "title" : "Religion Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbm1bEO85PJ814HicFmN4M9B\" frameBorder=\"0\" allowFullScreen></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "Largest Religous Communities",
+            "path" : "http://www.adherents.com/largecom/"
+        },
+        {
+        	"title" : "BBC Religion Page",
+        	"path" : "http://www.bbc.co.uk/religion/religions/"
+        },
+        {
+        	"title" : "Sacred Sites in Jerusalem",
+        	"path" : "http://news.bbc.co.uk/hi/english/static/in_depth/middle_east/2000/holy_places/default.stm"
+        },
+        {
+        	"title" : "Difference between Catholic and Orthodox",
+        	"path" : "http://www.economist.com/blogs/economist-explains/2016/02/economist-explains-9"
+        }
+    ],
+    "esri" : [{
+    	"title" : "ESRI: The Muslim World",
+    	"path" : "http://story.maps.arcgis.com/apps/MapSeries/index.html?appid=f2cbd5ef95d346038f554951879ca7c3"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 6 Key Issue 1",
+            "path" : "./content/audio/Religion/chapter6Issue1.mp3"
+        },
+        {
+            "title" : "Chapter 6 Key Issue 2",
+            "path" : "./content/audio/Religion/chapter6Issue2.mp3"
+        },
+        {
+            "title" : "Chapter 6 Key Issue 3",
+            "path" : "./content/audio/Religion/chapter6Issue3.mp3"
+        },{
+            "title" : "Chapter 6 Key Issue 4",
+            "path" : "./content/audio/Religion/chapter6Issue4.mp3"
+        }
+    ],
+    "image" : [ 
+        {
+            "title" : "Indo-European Language Spread",
+            "path" : "./content/img/Religion/AnimatedMapShowsHowIndo-EuropeanLanguagesSpread.gif"
+        }, 
+        {
+            "title" : "Religious Growth",
+            "path" : "./content/img/Religion/GrowthOfReligions.GIF"
+        }, 
+        {
+            "title" : "Head Scarves",
+            "path" : "./content/img/Religion/HeadScarfs.jpg"
+        }, 
+        {
+            "title" : "Map of Religion (Detailed)",
+            "path" : "./content/img/Religion/highlyDetailedMapOfReligion.jpeg"
+        }, 
+        {
+            "title" : "Holy Sites in Jerusalem",
+            "path" : "./content/img/Religion/HolySitesInJerusalem.jpeg"
+        }, 
+        {
+            "title" : "Less than 1%",
+            "path" : "./content/img/Religion/LessThan1Percent.jpeg"
+        }, 
+        {
+            "title" : "Mapping Judaism",
+            "path" : "./content/img/Religion/MappingJudaism.jpeg"
+        }, 
+        {
+            "title" : "Mormon Percentage",
+            "path" : "./content/img/Religion/MormonPercentage.PNG"
+        }, 
+        {
+            "title" : "Nazi Votes vs Catholic Votes",
+            "path" : "./content/img/Religion/NaziVotesVsCatholics.jpg"
+        }, 
+        {
+            "title" : "Religion and Language",
+            "path" : "./content/img/Religion/ReligionAndLanguage.png"
+        }, 
+        {
+            "title" : "Religion in Russia",
+            "path" : "./content/img/Religion/ReligionInRussia.jpeg"
+        }, 
+        {
+            "title" : "Religion in the US",
+            "path" : "./content/img/Religion/ReligionInTheUS.jpeg"
+        }, 
+        {
+            "title" : "Women in Religion",
+            "path" : "./content/img/Religion/WomenInReligion.jpg"
+        }
+    ]
+}

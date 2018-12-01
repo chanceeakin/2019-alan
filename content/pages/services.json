@@ -1,0 +1,72 @@
+{
+    "title" : "Services",
+    "path" : "Services",
+    "background" : "./content/img/backgrounds/Services.jpeg",
+    "video" : {
+        "title" : "Services Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbmbNuBALXdd6m_oZ4RF0yul\" frameBorder=\"0\" allowFullScreen></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "Sample Central Place Requirements",
+            "path" : "http://www.buffalowildwings.com/Franchise/Requirements/"
+        },
+        {
+        	"title" : "Types of Services",
+        	"path" : "https://www.amerilawyer.com/list_business_services.htm"
+        }
+    ],
+    "esri" : [{
+    	"title" : "ESRI: Something Service Related",
+    	"path" : ""
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 12 Key Issue 1",
+            "path" : "./content/audio/Services/chapter12Issue1.mp3"
+        },
+        {
+            "title" : "Chapter 12 Key Issue 4",
+            "path" : "./content/audio/Services/chapter12Issue4.mp3"
+        }
+    ],
+    "image" : [ 
+        {
+            "title" : "Central Place",
+            "path" : "./content/img/Services/CentralPlace.jpeg"
+        }, 
+        {
+            "title" : "Central Place Theory",
+            "path" : "./content/img/Services/CentralPlaceTheory.jpeg"
+        }, 
+        {
+            "title" : "Enclosure Movement",
+            "path" : "./content/img/Services/EnclosureMovement.jpeg"
+        }, 
+        {
+            "title" : "Map of Emerging US Mega Regions",
+            "path" : "./content/img/Services/MapofEmergingUSMegaregions.jpeg"
+        }, 
+        {
+            "title" : "Periodic Market",
+            "path" : "./content/img/Services/PeriodicMarket.jpeg"
+        }, 
+        {
+            "title" : "Rise of Service Industry",
+            "path" : "./content/img/Services/RiseOfServiceIndustry.gif"
+        }, 
+        {
+            "title" : "Rural Settlement Patterns",
+            "path" : "./content/img/Services/RuralSettlementPatterns.jpeg"
+        }, 
+        {
+            "title" : "Urban Hearths",
+            "path" : "./content/img/Services/UrbanHearths.jpeg"
+        }, 
+        {
+            "title" : "US Job Breakdown",
+            "path" : "./content/img/Services/UsJobBreakdown.jpeg"
+        }
+    ]
+}

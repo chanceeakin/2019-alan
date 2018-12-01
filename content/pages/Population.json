@@ -1,0 +1,153 @@
+{
+    "title" : "Population",
+    "path" : "Population",
+    "background" : "./content/img/backgrounds/Population.jpeg",
+    "video" : {
+        "title" : "Population Video Playlist",
+        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbnxL7ZT-7ou7GqDtzxE0mYO\" frameBorder=\"0\" allowFullScreen></iframe>"
+    },
+    "link" : [
+    	{
+            "title" : "World Population Clock",
+            "path" : "http://www.worldometers.info/world-population/"
+        },
+        {
+        	"title" : "Population Refernce Bureau",
+        	"path" : "http://www.prb.org/"
+        },
+        {
+        	"title" : "Census Population Clock",
+        	"path" : "http://www.census.gov/popclock/world"
+        },
+        {
+        	"title" : "US Census Bureau",
+        	"path" : "http://www.census.gov/"
+        },
+        {
+        	"title" : "UNAIDS",
+        	"path" : "http://www.unaids.org/en/"
+        },
+        {
+        	"title" : "United Nations Population Fund",
+        	"path" : "http://www.unfpa.org/#"
+        },
+        {
+            "title" : "Population Data Sheet 2013",
+            "path" : "http://www.prb.org/pdf13/2013-population-data-sheet_eng.pdf"
+        },
+        {
+            "title" : "Food and Agriculture Organization",
+            "path" : "http://www.fao.org/home/en/"
+        },
+        {
+            "title" : "World Population in Graphs",
+            "path" : "https://www.ined.fr/en/everything_about_population/graphs-maps/population_graphs/"
+        }
+    ],
+    "esri" : [{
+    	"title" : "City Growth",
+    	"path" : "http://storymaps.esri.com/stories/2014/growth-of-cities/
+"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 2 Key Issue 1",
+            "path" : "./content/audio/Population/chapter2Issue1.mp3"
+        },
+        {
+            "title" : "Chapter 2 Key Issue 2",
+            "path" : "./content/audio/Population/chapter2Issue2.mp3"
+        },
+        {
+            "title" : "Chapter 2 Key Issue 3",
+            "path" : "./content/audio/Population/chapter2Issue3.mp3"
+        },
+        {
+            "title" : "Chapter 2 Key Issue 4",
+            "path" : "./content/audio/Population/chapter2Issue4.mp3"
+        }
+    ],
+    "image" : [
+        {
+            "title" : "Africa Median Age",
+            "path" : "./content/img/Population/AfricaMedianAge.jpg"
+        },
+        {
+            "title" : "Annual Growth Rates",
+            "path" : "./content/img/Population/AnnualGrowthRates.jpeg"
+        },
+        {
+            "title" : "Cities over 100K",
+            "path" : "./content/img/Population/citiesOver100k.jpg"
+        },
+        {
+            "title" : "City Density",
+            "path" : "./content/img/Population/CityDensity.gif"
+        },
+        {
+            "title" : "A Comic!",
+            "path" : "./content/img/Population/Comic.jpg"
+        },
+        {
+            "title" : "Democratic Transition",
+            "path" : "./content/img/Population/DemographicTransition.gif"
+        },
+        {
+            "title" : "Map of Disease Flow",
+            "path" : "./content/img/Population/DiseaseFlowMap.jpeg"
+        },
+        {
+            "title" : "Diseases",
+            "path" : "./content/img/Population/Diseases.gif"
+        },
+        {
+            "title" : "DTM",
+            "path" : "./content/img/Population/DTM.jpg"
+        },
+        {
+            "title" : "Europe Population Pyramid",
+            "path" : "./content/img/Population/EuropePopulationPyramid.gif"
+        },
+        {
+            "title" : "Annotated J Curve",
+            "path" : "./content/img/Population/JcurveAnnotated.jpeg"
+        },
+        {
+            "title" : "One Child Policy",
+            "path" : "./content/img/Population/OneChildPolicy.png"
+        },
+        {
+            "title" : "Pie Chart Pop",
+            "path" : "./content/img/Population/PieChartPop.jpg"
+        },
+        {
+            "title" : "Top US Cities",
+            "path" : "./content/img/Population/Top10USCities.gif"
+        },
+        {
+            "title" : "US Cartogram",
+            "path" : "./content/img/Population/USCartogram.gif"
+        },
+        {
+            "title" : "US Centers of Populations",
+            "path" : "./content/img/Population/USCenterOfPPopulation.gif"
+        },
+        {
+            "title" : "US Population over Time",
+            "path" : "./content/img/Population/USPopulationOverTime.gif"
+        },
+        {
+            "title" : "World Average Age",
+            "path" : "./content/img/Population/WorldAverageAge.gif"
+        },
+        {
+            "title" : "World Population",
+            "path" : "./content/img/Population/WorldPopulation.jpeg"
+        },
+        {
+            "title" : "World Population Cartogram",
+            "path" : "./content/img/Population/WorldPopulationCartogram.gif"
+        }
+    ]
+}
