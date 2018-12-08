@@ -1,0 +1,91 @@
+{
+  "title": "Agriculture",
+  "content": "content.md",
+  "background": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Agriculture.jpeg",
+  "video": {
+    "title": "Agriculture Video Playlist",
+    "path": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbnmZcKEJBoqX9LL3F6AFXp8\" frameBorder=\"0\" allowFullScreen=\"\"></iframe>"
+  },
+  "tagGallery": [
+    {
+      "title": "Hearth Regions",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/HearthRegions.jpeg"
+    },
+    {
+      "title": "Coffee",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/ci2dy23eig021.jpg"
+    },
+    {
+      "title": "Daily Calories By Food",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/DailyCaloriesByFood.jpeg"
+    },
+    {
+      "title": "European Meat Consumption",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/EuropeanMeatConsumption.png"
+    },
+    {
+      "title": "Food Loss Waste",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/FoodLossWaste.jpeg"
+    },
+    {
+      "title": "Most Consumed Meat",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/MostConsumedMeat.png"
+    },
+    {
+      "title": "Nation Share of Global Wine Consumption",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/NationalShareOfGlobalWineConsumption.GIF"
+    },
+    {
+      "title": "Neolithic Agriculture",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/NeolithicAgriculture.jpeg"
+    },
+    {
+      "title": "Banana Production",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/ShareOfBananaProduction.png"
+    },
+    {
+      "title": "US Agriculture",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/USAgriculture.jpeg"
+    }
+  ],
+  "link": [
+    {
+      "title": "The State of Food Insecurity",
+      "path": "http://www.fao.org/home/en/"
+    },
+    {
+      "title": "World Hunger",
+      "path": "http://www.wfp.org/"
+    },
+    {
+      "title": "Cargill",
+      "path": "http://www.cargill.com/"
+    },
+    {
+      "title": "The EPA",
+      "path": "https://www3.epa.gov/"
+    },
+    {
+      "title": "Food First",
+      "path": "https://www.foodfirst.org"
+    },
+    {
+      "title": "Farmland",
+      "path": "https://www.farmland.org/"
+    }
+  ],
+  "esri": [
+    {
+      "title": "Farmer's Markets",
+      "path": "http://storymaps.esri.com/stories/2014/farmers-markets/"
+    },
+    {
+      "title": "The Fruit of the Vine",
+      "path": "http://agol.esri.fi/storymaps/wine/wine.html"
+    },
+    {
+      "title": "Thanksgiving",
+      "path": "http://storymaps.esri.com/stories/thanksgiving/#"
+    }
+  ]
+}

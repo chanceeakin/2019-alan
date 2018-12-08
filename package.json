@@ -3,7 +3,7 @@
   "license": "MIT",
   "author": "Fabian Schultz <desk@fabianschultz.com>",
   "scripts": {
-    "develop": "gatsby develop",
+    "start": "gatsby develop",
     "serve": "gatsby serve",
     "ssr": "npm run build && npm run serve",
     "format": "prettier --config ./.prettierrc --write src/**/*.js",

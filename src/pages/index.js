@@ -1,15 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { graphql } from 'gatsby';
+
 import Layout from 'components/layout';
 import Box from 'components/box';
 import Title from 'components/title';
 import Gallery from 'components/gallery';
 import IOExample from 'components/io-example';
 import Modal from 'containers/modal';
-import { graphql } from 'gatsby';
 
 const Index = ({ data }) => (
-  <Layout>
+  <Layout background={data.homeJson.background} title={data.homeJson.title}>
     <Box>
       <Title as="h2" size="large">
         {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}
@@ -40,6 +41,7 @@ export const query = graphql`
   query HomepageQuery {
     homeJson {
       title
+      background
       content {
         childMarkdownRemark {
           html
