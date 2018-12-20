@@ -1,10 +1,22 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  margin: 2rem;
-  width: calc(100vw - 4rem);
+  margin-top: 0;
+  width: calc(100vw);
+  z-index: 1;
+  position: relative;
 `;
 
 export const Image = styled.img`
   width: 100%;
+  opacity: 0.8;
+`;
+
+export const Title = styled.h1`
+  position: absolute;
+  font-size: 85px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
 `;

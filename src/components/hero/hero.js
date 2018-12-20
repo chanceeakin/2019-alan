@@ -1,10 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Container, Image } from './hero.css';
+import { Container, Image, Title } from './hero.css';
 
 const Hero = ({ background, title }) => (
   <Container>
     <Image src={background} alt={title} />
+    <Title>{title}</Title>
   </Container>
 );
 

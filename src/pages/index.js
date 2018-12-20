@@ -3,31 +3,15 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 
 import Layout from 'components/layout';
-import Box from 'components/box';
-import Title from 'components/title';
 import Gallery from 'components/gallery';
-import IOExample from 'components/io-example';
-import Modal from 'containers/modal';
 
 const Index = ({ data }) => (
-  <Layout background={data.homeJson.background} title={data.homeJson.title}>
-    <Box>
-      <Title as="h2" size="large">
-        {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}
-      </Title>
-      <Modal>
-        <video
-          src="https://i.imgur.com/gzFqNSW.mp4"
-          playsInline
-          loop
-          autoPlay
-          muted
-        />
-      </Modal>
-    </Box>
+  <Layout
+    background={data.homeJson.background}
+    title={"Mr Cardon's AP Human Geography"}
+  >
     <Gallery items={data.homeJson.gallery} />
     <div style={{ height: '50vh' }} />
-    <IOExample />
   </Layout>
 );
 
