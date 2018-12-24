@@ -1,6 +1,5 @@
 # todo
 * data entry
-  * ethnicity
   * folk culture
   * industry
   * language
@@ -11,4 +10,3 @@
   * religion
   * services
   * urban
-* fix build

@@ -1,0 +1,101 @@
+{
+  "title": "Ethnicity",
+  "background": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Ethnicity.jpg",
+  "content": "content.md",
+  "video": {
+    "title": "Ethnicity Video Playlist",
+    "path": "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbm9rAokbwVvPceredGLhIMx"
+  },
+  "links": [
+    {
+      "title": "Post Civil Rights Segregation",
+      "path": "http://www.census.gov/hhes/www/housing/resseg/papertoc.html"
+    },
+    {
+      "title": "Austin was built to be segregated",
+      "path": " http://www.vice.com/read/austin-was-built-to-be-segregated"
+    },
+    {
+      "title": "Inheriting inequality in Austin",
+      "path": "http://projects.statesman.com/news/economic-mobility/"
+    },
+    {
+      "title": "Racial Dot Map",
+      "path": "http://demographics.coopercenter.org/DotMap/"
+    }
+  ],
+  "esri": [
+    {
+      "title": "ESRI: No Idea what's behind Door Number One",
+      "path": "http://www.arcgis.com/apps/Compare/Multiviewer/index.html?appid=ee5e2c9efc25477f86efd3a2c7be0ca6"
+    },
+    {
+      "title": "ESRI: Or Door Two",
+      "path": "https://geowb.maps.arcgis.com/apps/MapJournal/index.html?appid=19f01798923843a2a4aa5244e1a49f54"
+    }
+  ],
+  "audio": [
+    {
+      "title": "Chapter 7 Key Issue 1",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/ethnicity/Chapter%207%20Key%20Issue%201.mp3"
+    },
+    {
+      "title": "Chapter 7 Key Issue 2",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/ethnicity/Chapter%207%20Key%20Issue%202.mp3"
+    },
+    {
+      "title": "Chapter 7 Key Issue 3",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/ethnicity/Chapter%207%20Key%20Issue%203.mp3"
+    },
+    {
+      "title": "Chapter 7 Key Issue 4",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/ethnicity/Chapter%207%20Key%20Issue%204.mp3"
+    }
+  ],
+  "tagGallery": [
+    {
+      "title": "Apartheid",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/Apartheid.jpeg"
+    },
+    {
+      "title": "Caucas Ethnicities",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/CaucasEthnicities.jpeg"
+    },
+    {
+      "title": "Ethnicities in China",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/ChinaEthnicityMap.jpeg"
+    },
+    {
+      "title": "Bosnian Ethnicities",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/EthnicBreakdownOfBosnia.gif"
+    },
+    {
+      "title": "African Ethnicities",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/EthnicitiesInAfrica.jpeg"
+    },
+    {
+      "title": "Ethnicities in New York",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/EthnicityInNewYork.png"
+    },
+    {
+      "title": "Great Migration",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/GreatMigration.gif"
+    },
+    {
+      "title": "Great Migration",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/GreatMigration.jpeg"
+    },
+    {
+      "title": "kurdistan",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/kurdistan.jpeg"
+    },
+    {
+      "title": "US Ethnicities",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/MapOfUSEthnicities.jpeg"
+    },
+    {
+      "title": "Stateless Nations in Europe",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/ethnicity/StatelessNationsEurope.jpeg"
+    }
+  ]
+}

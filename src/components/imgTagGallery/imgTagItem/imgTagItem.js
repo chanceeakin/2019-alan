@@ -4,7 +4,9 @@ import { Figure, Title, Copy, Image } from './imgTagItem.css';
 
 const Item = ({ title, copy, path }) => (
   <Figure>
-    <Image src={path ? path : ''} alt={title} />
+    <a href={path ? path : ''}>
+      <Image src={path ? path : ''} alt={title} />
+    </a>
     <figcaption>
       <Title>{title}</Title>
       <Copy>{copy ? copy : ''}</Copy>
