@@ -1,0 +1,95 @@
+{
+    "title" : "Development",
+    "content": "content.md",
+    "background" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Development.jpg",
+    "video" : {
+        "title" : "Agriculture Video Playlist",
+        "path" : "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbkRimIBRHghDhvqQW-9Ws4Y"
+    },
+    "links" : [
+    	{
+            "title" : "Big Mac Index",
+            "path" : "http://www.economist.com/content/big-mac-index"
+        },
+        {
+        	"title" : "Human Development Reports",
+        	"path" : "http://hdr.undp.org/en/reports/default.cfm"
+        },
+        {
+        	"title" : "Toilets from around the world",
+        	"path" : "https://www.theguardian.com/travel/gallery/2016/apr/12/amazing-toilets-around-the-world-in-pictures"
+        },
+        {
+        	"title" : "Gender Wage Gap Calculator",
+        	"path" : "https://www.omnicalculator.com/other/gender-wage-gap"
+        }
+    ],
+    "esri" : [{
+    	"title" : "ESRI: Map Journal",
+    	"path" : "http://sdgs.maps.arcgis.com/apps/MapJournal/index.html?appid=c921e7d2cfef4c8ab98b839e27eda74a"
+    }
+    ],
+    "audio" : [{
+        "title": "Chapter 9 Key Issue 1",
+        "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/development/chapter%209%20key%20issue%201.mp3"
+    }, {
+        "title": "Chapter 9 Key Issue 2",
+        "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/development/chapter%209%20key%20issue%202.mp3"
+    }, {
+        "title": "Chapter 9 Key Issue 3",
+        "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/development/chapter%209%20key%20issue%203.mp3"
+    }, {
+        "title": "Chapter 9 Key Issue 4",
+        "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/development/chapter%209%20key%20issue%204.mp3"
+    }],
+    "tagGallery" : [
+        {
+            "title" : "Chinese Investment in Africa",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/ChineseInvestmentInAfrica.jpeg"
+        },
+        {
+            "title" : "Coal Production",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/CoalProduction.gif"
+        },
+        {
+            "title" : "Debt to Gross Domestic Product",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/DebtToGDP.jpeg"
+        },
+        {
+            "title" : "Dubai Growth",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/DubaiGrowth.GIF"
+        },
+        {
+            "title" : "Exports by Country",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/EveryCountriesExport.jpeg"
+        },
+        {
+            "title" : "Free Trade Companies",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/FreeTradeCompanies.jpeg"
+        },
+        {
+            "title" : "Map of HDI",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/MapOfHDI.jpeg"
+        },
+        {
+            "title": "Minimum Wage vs Big Mac",
+            "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/MinimumWageBigMac"
+        },
+        {
+            "title" : "PPP by State",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/PPPByState.png"
+        },
+        {
+            "title" : "PPP of Europe",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/PPPOfEurope.jpg"
+        },
+        {
+            "title" : "Top Renewable Energy Countries",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/TopRenewableEnergyCountries.jpeg"
+        },
+        {
+            "title" : "Who has the Oil?",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/development/WhoHasTheOil.jpeg"
+        }
+    ]
+}
