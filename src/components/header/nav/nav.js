@@ -1,7 +1,12 @@
 import React from 'react';
 import { Transition } from 'react-spring';
-import { Link } from 'gatsby';
-import { Container, Button, Dropdown, DropdownList } from './nav.css';
+import {
+  Container,
+  Button,
+  Dropdown,
+  DropdownList,
+  StyledLink,
+} from './nav.css';
 
 class Nav extends React.Component {
   constructor() {
@@ -46,13 +51,13 @@ class Nav extends React.Component {
                 return (
                   <ul style={props}>
                     <DropdownList>
-                      <Link to="/agriculture">Agriculture</Link>
+                      <StyledLink to="/agriculture">Agriculture</StyledLink>
                     </DropdownList>
                     <DropdownList>
-                      <Link to="/agriculture">Agriculture</Link>
+                      <StyledLink to="/agriculture">Agriculture</StyledLink>
                     </DropdownList>
                     <DropdownList>
-                      <Link to="/agriculture">Agriculture</Link>
+                      <StyledLink to="/agriculture">Agriculture</StyledLink>
                     </DropdownList>
                   </ul>
                 );

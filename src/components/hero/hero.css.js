@@ -3,6 +3,8 @@ import styled from 'styled-components';
 export const Container = styled.div`
   margin-top: 0;
   width: calc(100vw);
+  height: 85vh;
+  overflow-y: hidden;
   z-index: 1;
   position: relative;
 `;

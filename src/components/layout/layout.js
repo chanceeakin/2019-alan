@@ -4,6 +4,7 @@ import { StaticQuery, graphql } from 'gatsby';
 import Head from 'components/head';
 import Header from 'components/header';
 import Hero from 'components/hero';
+import Footer from 'components/footer';
 import GlobalStyle from 'global.css.js';
 
 const Layout = ({ data, children, background, title }) => (
@@ -13,6 +14,7 @@ const Layout = ({ data, children, background, title }) => (
     <Header title={data.site.siteMetadata.siteTitle} />
     <Hero background={background} title={title} />
     {children}
+    <Footer />
   </div>
 );
 

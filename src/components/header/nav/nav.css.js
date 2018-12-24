@@ -1,4 +1,6 @@
 import styled from 'styled-components';
+import { Link } from 'gatsby';
+import { accent } from 'constants/theme';
 
 export const Container = styled.nav`
   ul {
@@ -28,10 +30,21 @@ export const Dropdown = styled.div`
 export const Button = styled.div`
   text-transform: uppercase;
   cursor: pointer;
+  color: ${accent};
   font-size: 1.3rem;
+  &:hover {
+    color: inherit;
+  }
 `;
 
 export const DropdownList = styled.li`
   position: relative;
   display: inline-block;
+`;
+
+export const StyledLink = styled(Link)`
+  color: ${accent};
+  &:hover {
+    color: inherit;
+  }
 `;

@@ -4,7 +4,7 @@
     "background" : "./content/img/backgrounds/Agriculture.jpeg",
     "video" : {
         "title" : "Agriculture Video Playlist",
-        "path" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbnmZcKEJBoqX9LL3F6AFXp8\" frameBorder=\"0\" allowFullScreen=\"\"></iframe>"
+        "path" : "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbnmZcKEJBoqX9LL3F6AFXp8"
     },
     "link" : [
     	{
@@ -59,59 +59,59 @@
             "path" : "./content/audio/Agriculture/chapter10Issue3.mp3"
         }
     ],
-    "image" : [ 
+    "image" : [
         {
             "title" : "Average Rainfall",
             "path" : "./content/img/Agriculture/AverageRainfall.jpeg"
-        }, 
+        },
         {
             "title" : "Banana Farming",
             "path" : "./content/img/Agriculture/BananaFarming.gif"
-        }, 
+        },
         {
             "title" : "California Agriculture",
             "path" : "./content/img/Agriculture/CaliforniaAgriculture.jpeg"
-        }, 
+        },
         {
             "title" : "Climate Map",
             "path" : "./content/img/Agriculture/ClimateMap.jpg"
-        }, 
+        },
         {
             "title" : "Coffee Countries",
             "path" : "./content/img/Agriculture/CoffeeCountries.jpeg"
-        }, 
+        },
         {
             "title" : "Crop Belts",
             "path" : "./content/img/Agriculture/cropbelts.png"
-        }, 
+        },
         {
             "title" : "Daily Calories by Food",
             "path" : "./content/img/Agriculture/DailyCaloriesByFood.jpeg"
-        }, 
+        },
         {
             "title" : "Waste from Food Loss",
             "path" : "./content/img/Agriculture/FoodLossWaste.jpeg"
-        }, 
+        },
         {
             "title" : "Hearth Regions",
             "path" : "./content/img/Agriculture/HearthRegions.jpeg"
-        }, 
+        },
         {
             "title" : "Most Consumed Meat",
             "path" : "./content/img/Agriculture/MostConsumedMeat.png"
-        }, 
+        },
         {
             "title" : "National Share of Global Wine Consumption",
             "path" : "./content/img/Agriculture/NationalShareOfGlobalWineConsumption.GIF"
-        }, 
+        },
         {
             "title" : "Neolithic Agriculture",
             "path" : "./content/img/Agriculture/NeolithicAgriculture.jpeg"
-        }, 
+        },
         {
             "title" : "Share of Banana Production",
             "path" : "./content/img/Agriculture/ShareOfBananaProduction.png"
-        }, 
+        },
         {
             "title" : "US Agriculture",
             "path" : "./content/img/Agriculture/USAgriculture.jpeg"

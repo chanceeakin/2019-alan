@@ -4,7 +4,7 @@
   "background": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Agriculture.jpeg",
   "video": {
     "title": "Agriculture Video Playlist",
-    "path": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbnmZcKEJBoqX9LL3F6AFXp8\" frameBorder=\"0\" allowFullScreen=\"\"></iframe>"
+    "path" : "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbnmZcKEJBoqX9LL3F6AFXp8"
   },
   "tagGallery": [
     {
@@ -48,7 +48,21 @@
       "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/agriculture/USAgriculture.jpeg"
     }
   ],
-  "link": [
+  "audio": [
+    {
+      "title": "Chapter 10 Issue 1",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/agriculture/chapter10Issue1.mp3"
+    },
+    {
+      "title": "Chapter 10 Issue 2",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/agriculture/chapter10Issue2.mp3"
+    },
+    {
+      "title": "Chapter 10 Issue 3",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/agriculture/chapter10Issue3.mp3"
+    }
+  ],
+  "links": [
     {
       "title": "The State of Food Insecurity",
       "path": "http://www.fao.org/home/en/"

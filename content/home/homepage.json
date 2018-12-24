@@ -4,19 +4,23 @@
   "background": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/kevin-bosc-1208883-unsplash.jpg",
   "gallery": [
     {
-      "title": "React Context",
-      "copy": "For global styles.",
+      "title": "People",
+      "copy": "Human Geography studies people.",
       "image": "../images/gallery/react-context.jpg"
     },
     {
-      "title": "Page Transitions",
-      "copy": "Component-based for easy usage.",
+      "title": "Places",
+      "copy": "Human Geography encompasses where people live and travel.",
       "image": "../images/gallery/page-transitions.jpg"
     },
     {
-      "title": "Intersection Observer",
-      "copy": "Including a polyfill for Safari.",
+      "title": "Things",
+      "copy": "Human Geography looks at our impact on the world.",
       "image": "../images/gallery/intersection-observer.jpg"
     }
-  ]
+  ],
+  "video": {
+    "title": "Mr. Cardon's Human Geography",
+    "path": "https://www.youtube.com/embed/naK9_JkFAOk"
+  }
 }

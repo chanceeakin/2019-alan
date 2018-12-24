@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 import MEDIA from 'helpers/mediaTemplates';
 
+export const Figure = styled.figure``;
+
 export const Title = styled.span`
   display: block;
   font-size: 2rem;
@@ -20,6 +22,7 @@ export const Copy = styled.p`
 export const Image = styled.img`
   width: calc(33vw - 5rem);
   height: auto;
+  border: 1px solid #e5e5e5;
 
   ${MEDIA.TABLET`
     width: calc(100vw - 8rem);
