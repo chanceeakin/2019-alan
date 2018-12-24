@@ -1,6 +1,5 @@
 # todo
 * data entry
-  * folk culture
   * industry
   * language
   * migration

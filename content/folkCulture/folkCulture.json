@@ -1,0 +1,101 @@
+{
+  "title": "Folk Culture",
+  "content": "content.md",
+  "background": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/folkAndCultureJumbotron.jpeg",
+  "video": {
+    "title": "Folk Culture Video Playlist",
+    "path": "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSblaM0CJdOA96-M37Qi5L182"
+  },
+  "links": [
+    {
+      "title": "The Makah Tribe",
+      "path": "http://makah.com/"
+    },
+    {
+      "title": "Hutterites",
+      "path": "http://www.hutterites.org/"
+    },
+    {
+      "title": "Irish Pub Company",
+      "path": "http://irishpubcompany.com/"
+    },
+    {
+      "title": "India Caste System",
+      "path": "http://www.dlshq.org/messages/caste.htm"
+    },
+    {
+      "title": "Culture of the Andes",
+      "path": "http://www.andes.org/fam_frnd.html"
+    },
+    {
+      "title": "Folk Culture Music",
+      "path": "http://www.lib.berkeley.edu/MRC/music.html#cajun"
+    },
+    {
+      "title": "BBC Culture",
+      "path": "http://www.bbc.com/culture/us"
+    }
+  ],
+  "esri": [
+    {
+      "title": "ESRI: First Map",
+      "path": "http://esripm.maps.arcgis.com/apps/MapTour/index.html?appid=eaa0878861784ebf9fea9e8505904cd0&webmap=3e746185d2de462eb7fd3b3ff54d5175"
+    },
+    {
+      "title": "ESRI: Map Two",
+      "path": "http://www.arcgis.com/apps/StoryMapBasic/index.html?appid=aa2d2c6c8abb4c59b04d8857222e406e"
+    }
+  ],
+  "audio": [
+    {
+      "title": "Chapter 4 Key Issue 1",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/folk-culture/Chapter%204%20Key%20Issue%201.mp3"
+    },
+    {
+      "title": "Chapter 4 Key Issue 2",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/folk-culture/Chapter%204%20Key%20Issue%202.mp3"
+    },
+    {
+      "title": "Chapter 4 Key Issue 3",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/folk-culture/Chapter%204%20Key%20Issue%203.mp3"
+    },
+    {
+      "title": "Chapter 4 Key Issue 4",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/folk-culture/Chapter%204%20Key%20Issue%204.mp3"
+    }
+  ],
+  "tagGallery": [
+    {
+      "title": "Diffusion of Hockey",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/folk-culture/DiffusionOfHockey.GIF"
+    },
+    {
+      "title": "Growth of Walmart",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/folk-culture/GrowthOfWalmart.GIF"
+    },
+    {
+      "title": "Internet Users",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/folk-culture/InternetUsers.GIF"
+    },
+    {
+      "title": "Map of the Amish",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/folk-culture/MapOfAmish.jpeg"
+    },
+    {
+      "title": "Folk Culture Map",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/folk-culture/MapOfFolkCulture.jpeg"
+    },
+    {
+      "title": "Media Freedom",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/folk-culture/MediaFreedom.jpeg"
+    },
+    {
+      "title": "Stoning",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/folk-culture/Stoning.jpg"
+    },
+    {
+      "title": "Web Browsers",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/folk-culture/WebBrowsers.GIF"
+    }
+  ]
+}

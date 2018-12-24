@@ -11,39 +11,39 @@ import Links from 'components/links';
 import Video from 'components/video';
 import Break from 'components/break';
 
-const Development = ({ data }) => (
+const FolkCulture = ({ data }) => (
   <Layout
-    background={data.developmentJson.background}
-    title={data.developmentJson.title}
+    background={data.folkCultureJson.background}
+    title={data.folkCultureJson.title}
   >
     <Box>
       <Title as="h2" size="large">
-        {data.developmentJson.content.childMarkdownRemark.rawMarkdownBody}
+        {data.folkCultureJson.content.childMarkdownRemark.rawMarkdownBody}
       </Title>
     </Box>
     <Break />
-    <Video video={data.developmentJson.video} />
+    <Video video={data.folkCultureJson.video} />
     <Break />
-    <TagGallery items={data.developmentJson.tagGallery} />
+    <TagGallery items={data.folkCultureJson.tagGallery} />
     <Break />
-    <Audio audio={data.developmentJson.audio} />
+    <Audio audio={data.folkCultureJson.audio} />
     <Break />
     <Links
-      links={data.developmentJson.links}
-      esri={data.developmentJson.esri}
+      links={data.folkCultureJson.links}
+      esri={data.folkCultureJson.esri}
     />
   </Layout>
 );
 
-Development.propTypes = {
+FolkCulture.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-export default Development;
+export default FolkCulture;
 
 export const query = graphql`
-  query DevelopmentQuery {
-    developmentJson {
+  query FolkCultureQuery {
+    folkCultureJson {
       title
       background
       content {
