@@ -62,6 +62,9 @@ class Nav extends React.Component {
                     <DropdownList>
                       <StyledLink to="/folkCulture">Folk Culture</StyledLink>
                     </DropdownList>
+                    <DropdownList>
+                      <StyledLink to="/industry">Industry</StyledLink>
+                    </DropdownList>
                   </ul>
                 );
               })

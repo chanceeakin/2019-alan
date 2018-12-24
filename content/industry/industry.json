@@ -1,0 +1,100 @@
+{
+    "title" : "Industry",
+    "content": "content.md",
+    "background" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Industry.jpg",
+    "video" : {
+        "title" : "Industry Video Playlist",
+        "path" : "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbk5MGiYDZvCqlgzW6NLlNux"
+    },
+    "links" : [
+    	{
+            "title" : "Global Poverty",
+            "path" : "http://www.worldbank.org/en/topic/poverty"
+        },
+        {
+        	"title" : "Port of Rotterdam",
+        	"path" : " https://www.portofrotterdam.com/"
+        },
+        {
+        	"title" : "The Carbon Map",
+        	"path" : "http://www.carbonmap.org/#"
+        },
+        {
+        	"title" : "Petroleum",
+        	"path" : "http://www.eia.gov/petroleum/"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Big Holes",
+    	"path" : "http://story.maps.arcgis.com/apps/MapJournal/index.html?appid=4533fec4fbb148f289bf81f9cc8adbd6"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 11 Key Issue 1",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/industry/Chapter%2011%20Key%20Issue%201.mp3"
+        },
+        {
+            "title" : "Chapter 11 Key Issue 2",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/industry/Chapter%2011%20Key%20Issue%202.mp3"
+        },
+        {
+            "title" : "Chapter 11 Key Issue 3",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/industry/Chapter%2011%20Key%20Issue%203.mp3"
+        },
+        {
+            "title" : "Chapter 11 Key Issue 4",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/industry/Chapter%2011%20Key%20Issue%204.mp3"
+        }
+    ],
+    "tagGallery" : [
+        {
+            "title" : "Changing Manufacturing",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/ChanigInManufacturing.gif"
+        },
+        {
+            "title" : "Corporate Environmental Responsibility",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/CorporateEnvironmentalResponsibility.jpeg"
+        },
+        {
+            "title" : "How much does a shirt cost?",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/HowMuchDoesAShirtCost.jpg"
+        },
+        {
+            "title" : "Job Types by Industry",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/JobTypesIndustry.png"
+        },
+        {
+            "title" : "Modern Slavery",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/ModernSlavery.jpg"
+        },
+        {
+            "title" : "Oil Prices",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/OilPrices.jpg"
+        },
+        {
+            "title" : "Pittsburgh Mill Locations",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/PittsburgMillLocations.jpg"
+        },
+        {
+            "title" : "Price of Levis from around the world",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/PriceOfLevisAroundTheWorld.png"
+        },
+        {
+            "title" : "Rostows Model",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/RostowsModel.jpg"
+        },
+        {
+            "title" : "Singapore Development Over Time",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/SingaporeDevelopmentOverTime.png"
+        },
+        {
+            "title" : "Starbucks",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/starbucks.jpg"
+        },
+        {
+            "title" : "Wind Energy",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/industry/WindEnergy.GIF"
+        }
+    ]
+}
