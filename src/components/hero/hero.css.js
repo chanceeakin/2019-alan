@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import MEDIA from 'helpers/mediaTemplates';
 
 export const Container = styled.div`
   margin-top: 0;
@@ -12,6 +13,10 @@ export const Container = styled.div`
 export const Image = styled.img`
   width: 100%;
   opacity: 0.8;
+
+  ${MEDIA.TABLET`
+    display: none;
+  `};
 `;
 
 export const Title = styled.h1`
@@ -21,4 +26,8 @@ export const Title = styled.h1`
   top: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+
+  ${MEDIA.TABLET`
+  font-size: 7rem;
+  `};
 `;
