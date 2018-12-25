@@ -1,0 +1,105 @@
+{
+  "title": "Religion",
+  "content": "content.md",
+  "background": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Religion.jpeg",
+  "video": {
+    "title": "Religion Video Playlist",
+    "path": "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbm1bEO85PJ814HicFmN4M9B"
+  },
+  "links": [
+    {
+      "title": "Largest Religous Communities",
+      "path": "http://www.adherents.com/largecom/"
+    },
+    {
+      "title": "BBC Religion Page",
+      "path": "http://www.bbc.co.uk/religion/religions/"
+    },
+    {
+      "title": "Sacred Sites in Jerusalem",
+      "path": "http://news.bbc.co.uk/hi/english/static/in_depth/middle_east/2000/holy_places/default.stm"
+    },
+    {
+      "title": "Difference between Catholic and Orthodox",
+      "path": "http://www.economist.com/blogs/economist-explains/2016/02/economist-explains-9"
+    }
+  ],
+  "esri": [
+    {
+      "title": "ESRI: The Muslim World",
+      "path": "http://story.maps.arcgis.com/apps/MapSeries/index.html?appid=f2cbd5ef95d346038f554951879ca7c3"
+    }
+  ],
+  "audio": [
+    {
+      "title": "Chapter 6 Key Issue 1",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/religion/Chapter%206%20Key%20Issue%201.mp3"
+    },
+    {
+      "title": "Chapter 6 Key Issue 2",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/religion/Chapter%206%20Key%20Issue%202.mp3"
+    },
+    {
+      "title": "Chapter 6 Key Issue 3",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/religion/Chapter%206%20Key%20Issue%203.mp3"
+    },
+    {
+      "title": "Chapter 6 Key Issue 4",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/religion/Chapter%206%20Key%20Issue%204.mp3"
+    }
+  ],
+  "tagGallery": [
+    {
+      "title": "Indo-European Language Spread",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/AnimatedMapShowsHowIndo-EuropeanLanguagesSpread.gif"
+    },
+    {
+      "title": "Religious Growth",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/GrowthOfReligions.GIF"
+    },
+    {
+      "title": "Head Scarves",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/HeadScarfs.jpg"
+    },
+    {
+      "title": "Map of Religion (Detailed)",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/highlyDetailedMapOfReligion.jpeg"
+    },
+    {
+      "title": "Holy Sites in Jerusalem",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/HolySitesInJerusalem.jpeg"
+    },
+    {
+      "title": "Less than 1%",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/LessThan1Percent.jpeg"
+    },
+    {
+      "title": "Mapping Judaism",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/MappingJudaism.jpeg"
+    },
+    {
+      "title": "Mormon Percentage",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/MormonPercentage.PNG"
+    },
+    {
+      "title": "Nazi Votes vs Catholic Votes",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/NaziVotesVsCatholics.jpg"
+    },
+    {
+      "title": "Religion and Language",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/ReligionAndLanguage.png"
+    },
+    {
+      "title": "Religion in Russia",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/ReligionInRussia.jpeg"
+    },
+    {
+      "title": "Religion in the US",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/ReligionInTheUS.jpeg"
+    },
+    {
+      "title": "Women in Religion",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/religion/WomenInReligion.jpg"
+    }
+  ]
+}

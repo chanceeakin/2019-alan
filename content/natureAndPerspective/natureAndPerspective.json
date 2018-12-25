@@ -1,0 +1,120 @@
+{
+    "title" : "Nature and Perspective",
+    "content": "content.md",
+    "background" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/NatureAndPerspective.jpg",
+    "video" : {
+        "title" : "Nature and Perspective Video Playlist",
+        "path" : "https://www.youtube.com/embed/XVK0ro_JdYQ"
+    },
+    "links" : [
+    	{
+            "title" : "Country Quiz",
+            "path" : "http://lizardpoint.com/geography/world-countries-quiz.php"
+        },
+        {
+        	"title" : "Geography Games",
+        	"path" : "https://www.quia.com/shared/geography/"
+        },
+        {
+        	"title" : "Geography through Travel",
+        	"path" : "http://www.lonelyplanet.com/"
+        },
+        {
+        	"title" : "All About Geography",
+        	"path" : "http://geography.about.com/"
+        },
+        {
+        	"title" : "NASA Earth Science",
+        	"path" : "http://science.nasa.gov/earth-science/"
+        },
+        {
+        	"title" : "NatGeo Mapmaker",
+        	"path" : "http://mapmaker.nationalgeographic.org/"
+        },
+        {
+            "title": "CIA World Factbook",
+            "path": "https://www.cia.gov/library/publications/resources/the-world-factbook/index.html"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Esri Map 1",
+    	"path" : "http://apps.esriuk.com/app/TimPeake/3/wmt/view/d64115f341c54560bdf7582052818809/index.html"
+    },
+    {
+        "title" : "Esri Map Two",
+        "path" : "http://story.maps.arcgis.com/apps/MapJournal/index.html?appid=d14f53dcaf7b4542a8c9110eeabccf1c"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 1 Key Issue 1",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/nature-and-perspective/Chapter%201%20Key%20Issue%201.mp3"
+        },
+        {
+            "title" : "Chapter 1 Key Issue 2",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/nature-and-perspective/Chapter%201%20Key%20Issue%202.mp3"
+        },
+        {
+            "title" : "Chapter 1 Key Issue 3",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/nature-and-perspective/Chapter%201%20Key%20Issue%203.mp3"
+        }
+    ],
+    "tagGallery" : [
+        {
+            "title" : "Bio Pyramid",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/Biomepyramid.jpg"
+        },
+        {
+            "title" : "Game of Thrones Biomes",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/GameOfThronesBiomes.jpg"
+        },
+        {
+            "title" : "Hardies vs Carls",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/HardiesVsCarlJr.jpg"
+        },
+        {
+            "title" : "History of the World",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/HistoryOfTheWorld.gif"
+        },
+        {
+            "title" : "Sunlight Hours",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/HoursOfSunlight.jpeg"
+        },
+        {
+            "title" : "How Long is Chile?",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/HowLongIsChile.png"
+        },
+        {
+            "title" : "Latin America Projections",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/LatinAmericaProjections.gif"
+        },
+        {
+            "title" : "Problem with Projections",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/ProblemsWithProjections.gif"
+        },
+        {
+            "title" : "Austin Projections",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/ProjectionInAustin.png"
+        },
+        {
+            "title" : "More Projections",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/Projections.jpeg"
+        },
+        {
+            "title" : "Toponyms",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/Topynms.png"
+        },
+        {
+            "title" : "Latitude Comparisons",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/US-Can-Euro%20latitude.jpg"
+        },
+        {
+            "title" : "US Map Projections",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/USMapProjections.jpeg"
+        },
+        {
+            "title" : "What your Map Projection Says about You",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/nature-and-perspective/WhatMapProjectionsSayAboutYou.jpeg"
+        }
+    ]
+}

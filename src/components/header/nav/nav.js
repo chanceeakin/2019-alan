@@ -65,6 +65,32 @@ class Nav extends React.Component {
                     <DropdownList>
                       <StyledLink to="/industry">Industry</StyledLink>
                     </DropdownList>
+                    <DropdownList>
+                      <StyledLink to="/language">Language</StyledLink>
+                    </DropdownList>
+                    <DropdownList>
+                      <StyledLink to="/migration">Migration</StyledLink>
+                    </DropdownList>
+                    <DropdownList>
+                      <StyledLink to="/natureAndPerspective">
+                        Nature and Perspective
+                      </StyledLink>
+                    </DropdownList>
+                    <DropdownList>
+                      <StyledLink to="/political">Political</StyledLink>
+                    </DropdownList>
+                    <DropdownList>
+                      <StyledLink to="/population">Population</StyledLink>
+                    </DropdownList>
+                    <DropdownList>
+                      <StyledLink to="/religion">Religion</StyledLink>
+                    </DropdownList>
+                    <DropdownList>
+                      <StyledLink to="/services">Services</StyledLink>
+                    </DropdownList>
+                    <DropdownList>
+                      <StyledLink to="/urban">Urban</StyledLink>
+                    </DropdownList>
                   </ul>
                 );
               })

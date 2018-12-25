@@ -1,0 +1,127 @@
+{
+    "title" : "Urban Land Use",
+    "content" : "content.md",
+    "background" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Urban.jpeg",
+    "video" : {
+        "title" : "Urban Video Playlist",
+        "path" : "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSblwp4gViUQCDWuPavVo838_"
+    },
+    "links" : [
+    	{
+            "title" : "Congress of New Urbanism",
+            "path" : "http://vault.sierraclub.org/sprawl/"
+        },
+        {
+        	"title" : "Four Classical Traditions in Location Theory",
+        	"path" : "http://faculty.washington.edu/krumme/450/table.html"
+        },
+        {
+        	"title" : "City Cost of Living comparison",
+        	"path" : "http://money.cnn.com/calculator/pf/cost-of-living/"
+        },
+        {
+        	"title" : "Gravity Model",
+        	"path" : "http://geography.about.com/library/weekly/aa031601a.htm"
+        },
+        {
+            "title" : "Urban Models",
+            "path" : "http://www.yorku.ca/anderson/geog2300/2300%20Residential%20Differentiation/sld001.htm"
+        }
+    ],
+    "esri" : [{
+    	"title" : "ESRI: Urban Stuff",
+    	"path" : "http://www.arcgis.com/apps/MapTour/index.html?appid=5812eb4ca9044ae182388801ede14c5c&webmap=d5fa65858a674c95b100f99ac29c73dd"
+    }, {
+        "title" : "ESRI: City Growth",
+        "path" : "http://storymaps.esri.com/stories/2014/growth-of-cities/"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 13 Key Issue 1",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/urban/Chapter%2013%20Key%20Issue%201.mp3"
+        },
+        {
+            "title" : "Chapter 13 Key Issue 2",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/urban/Chapter%2013%20Key%20Issue%202.mp3"
+        },
+        {
+            "title" : "Chapter 13 Key Issue 3",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/urban/Chapter%2013%20Key%20Issue%203.mp3"
+        },
+        {
+            "title" : "Chapter 13 Key Issue 4",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/urban/Chapter%2013%20Key%20Issue%204.mp3"
+        }
+    ],
+    "tagGallery" : [
+        {
+            "title" : "Urban Footprints",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/1469995385489571529482.jpg"
+        },
+        {
+            "title" : "African City Model",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/AfricanCityModel.jpeg"
+        },
+        {
+            "title" : "Density of Rail",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/DensityOfRail.jpeg"
+        },
+        {
+            "title" : "Gentrification",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/Gentrification.jpeg"
+        },
+        {
+            "title" : "Growth of Shanghai",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/GrowthOfShanghi.GIF"
+        },
+        {
+            "title" : "InterState Highway Plan of 1955",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/InterstateHighwayPlanSept1955.jpg"
+        },
+        {
+          "title": "Kaloon City",
+          "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/Kaloon%20City.jpg"
+        },
+        {
+            "title" : "LA City Model",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/LACityModel.jpeg"
+        },
+        {
+            "title" : "Map of Food Deserts",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/MapOfFoodDeserts.jpeg"
+        },
+        {
+            "title" : "NYC Subway Over Time",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/NewYorkCitySubwayOverTime.GIF"
+        },
+        {
+            "title" : "Panama City Over Time",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/PanamaCityOverTime.jpg"
+        },
+        {
+            "title" : "Sprawl Effects",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/SprawlEffects.jpeg"
+        },
+        {
+            "title" : "Suburbs",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/Suburbs.jpeg"
+        },
+        {
+            "title" : "The American Dream",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/TheAmericanDrea.jpeg"
+        },
+        {
+            "title" : "Urban Sprawl",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/UrbanSprawl.gif"
+        },
+        {
+            "title" : "What is a food Desert?",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/WhatIsAFoodDesert.jpeg"
+        },
+        {
+            "title" : "Zone 2 Burguess",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/urban/Zone2Burguess.jpeg"
+        }
+    ]
+}

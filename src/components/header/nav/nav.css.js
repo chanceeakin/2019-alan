@@ -39,7 +39,8 @@ export const Button = styled.div`
 
 export const DropdownList = styled.li`
   position: relative;
-  display: inline-block;
+  display: block;
+  white-space: nowrap;
 `;
 
 export const StyledLink = styled(Link)`

@@ -1,0 +1,153 @@
+{
+  "title": "Population",
+  "content": "content.md",
+  "background": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Population.jpeg",
+  "video": {
+    "title": "Population Video Playlist",
+    "path": "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbnxL7ZT-7ou7GqDtzxE0mYO"
+  },
+  "links": [
+    {
+      "title": "World Population Clock",
+      "path": "http://www.worldometers.info/world-population/"
+    },
+    {
+      "title": "Population Refernce Bureau",
+      "path": "http://www.prb.org/"
+    },
+    {
+      "title": "Census Population Clock",
+      "path": "http://www.census.gov/popclock/world"
+    },
+    {
+      "title": "US Census Bureau",
+      "path": "http://www.census.gov/"
+    },
+    {
+      "title": "UNAIDS",
+      "path": "http://www.unaids.org/en/"
+    },
+    {
+      "title": "United Nations Population Fund",
+      "path": "http://www.unfpa.org/#"
+    },
+    {
+      "title": "Population Data Sheet 2013",
+      "path": "http://www.prb.org/pdf13/2013-population-data-sheet_eng.pdf"
+    },
+    {
+      "title": "Food and Agriculture Organization",
+      "path": "http://www.fao.org/home/en/"
+    },
+    {
+      "title": "World Population in Graphs",
+      "path": "https://www.ined.fr/en/everything_about_population/graphs-maps/population_graphs/"
+    }
+  ],
+  "esri": [
+    {
+      "title": "City Growth",
+      "path": "http://storymaps.esri.com/stories/2014/growth-of-cities/\n"
+    }
+  ],
+  "audio": [
+    {
+      "title": "Chapter 2 Key Issue 1",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/population/chapter%202%20key%20issue%201.mp3"
+    },
+    {
+      "title": "Chapter 2 Key Issue 2",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/population/Chapter%202%20key%20issue%202.mp3"
+    },
+    {
+      "title": "Chapter 2 Key Issue 3",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/population/Chapter%202%20Key%20Issue%203.mp3"
+    },
+    {
+      "title": "Chapter 2 Key Issue 4",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/population/Chapter%202%20Key%20Issue%204.mp3"
+    }
+  ],
+  "tagGallery": [
+    {
+      "title": "Africa Median Age",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/Africa%20Median%20Age.jpg"
+    },
+    {
+      "title": "Annual Growth Rates",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/AnnualGrowthRates.jpeg"
+    },
+    {
+      "title": "Cities over 100K",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/citiesOver100k.jpg"
+    },
+    {
+      "title": "City Density",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/CityDensity.gif"
+    },
+    {
+      "title": "A Comic!",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/Comic.jpg"
+    },
+    {
+      "title": "Democratic Transition",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/DemographicTransition.gif"
+    },
+    {
+      "title": "Map of Disease Flow",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/DiseaseFlowMap.jpeg"
+    },
+    {
+      "title": "Diseases",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/Diseases.gif"
+    },
+    {
+      "title": "DTM",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/DTM.jpg"
+    },
+    {
+      "title": "Europe Population Pyramid",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/EuropePopulationPyramid.gif"
+    },
+    {
+      "title": "Annotated J Curve",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/JcurveAnnotated.jpeg"
+    },
+    {
+      "title": "One Child Policy",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/OneChildPolicy.png"
+    },
+    {
+      "title": "Pie Chart Pop",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/PieChartPop.jpg"
+    },
+    {
+      "title": "Top US Cities",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/Top10USCities.gif"
+    },
+    {
+      "title": "US Cartogram",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/USCartogram.gif"
+    },
+    {
+      "title": "US Centers of Populations",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/USCenterOfPPopulation.gif"
+    },
+    {
+      "title": "US Population over Time",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/USPopulationOverTime.gif"
+    },
+    {
+      "title": "World Average Age",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/WorldAverageAge.gif"
+    },
+    {
+      "title": "World Population",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/WorldPopulation.jpeg"
+    },
+    {
+      "title": "World Population Cartogram",
+      "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/population/WorldPopulationCartogram.gif"
+    }
+  ]
+}

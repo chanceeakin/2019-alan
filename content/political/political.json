@@ -1,0 +1,148 @@
+{
+    "title" : "Political",
+    "content": "content.md",
+    "background" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Politics.jpeg",
+    "video" : {
+        "title" : "Politics Video Playlist",
+        "path" : "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbkRimIBRHghDhvqQW-9Ws4Y"
+    },
+    "links" : [
+    	{
+            "title" : "Every Disputed Country",
+            "path" : "  http://metrocosm.com/disputed-territories-map.html"
+        },
+        {
+        	"title" : "European Union",
+        	"path" : "https://europa.eu/european-union/index_en"
+        },
+        {
+        	"title" : "History of the World",
+        	"path" : "http://geacron.com/home-en/?&sid=GeaCron213774"
+        },
+        {
+        	"title" : "Foreign Policy",
+        	"path" : "http://foreignpolicy.com/"
+        },
+        {
+        	"title" : "Amnesty International",
+        	"path" : "http://www.amnestyusa.org/"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Esri Map: Terrorist Attacks",
+    	"path" : "http://storymaps.esri.com/stories/2016/terrorist-attacks/"
+    },
+    {
+        "title" : "Esri Map Two",
+        "path" : "http://apl.maps.arcgis.com/apps/MapJournal/index.html?appid=14d7f584a3a246bf8c71246fc12fe7b4"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 8 Key Issue 1",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/political/chapter%208%20key%20issue%201.mp3"
+        },
+        {
+            "title" : "Chapter 8 Key Issue 2",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/political/chapter%208%20key%20issue%202.mp3"
+        },
+        {
+            "title" : "Chapter 8 Key Issue 3",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/political/chapter%208%20key%20issue%203.mp3"
+        },
+        {
+            "title" : "Chapter 8 Key Issue 4",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/political/chapter%208%20key%20issue%204.mp3"
+        }
+    ],
+    "tagGallery" : [
+        {
+            "title" : "Armenian Genocide",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/ArmenianGenocide.jpg"
+        },
+        {
+            "title" : "Break up of Yugoslavia",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/BreakupOfYugolavia.GIF"
+        },
+        {
+            "title" : "Colonialism over Time",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/ColonializismOverTime.GIF"
+        },
+        {
+          "title": "Devolution",
+          "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/Devolution.png"
+        },
+        {
+            "title" : "Effects of Terrorism",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/EffectsOfTerrorism.jpg"
+        },
+        {
+            "title" : "European Union Member",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/EuropeanUnionMember.GIF"
+        },
+        {
+            "title" : "Falkland Islands",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/FalklandsIslands.jpg"
+        },
+        {
+            "title" : "German Propaganda Colonialism",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/GermanPropagandaColonializm.jpg"
+        },
+        {
+            "title" : "Gerrymandering in Florida",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/GerrymandingInFlordia.png"
+        },
+        {
+            "title" : "How Democracy conquered the World",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/HowDemocracyConquredTheWorld.GIF"
+        },
+        {
+            "title" : "NATO",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/NATO.GIF"
+        },
+        {
+            "title" : "New Possibile Nation States",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/NewPossiableNationStates.jpg"
+        },
+        {
+            "title" : "Percentage of Women serving in State Legislation",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/PercentageOfWomenServingInStateLegislatures.GIF"
+        },
+        {
+            "title" : "Places not under Government Control",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/PlacesNotUnderGovernmentControl.png"
+        },
+        {
+            "title" : "Required to Vote by Law",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/RequiredToVoteByLaw.jpg"
+        },
+        {
+            "title" : "Responsible for Defense of the Sea",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/ResponsiableForDefenceInOceania.png"
+        },
+        {
+            "title" : "Shapes of States",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/ShapesOfStates.png"
+        },
+        {
+            "title" : "South China Sea",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/SouthChinaSea.png"
+        },
+        {
+            "title" : "The UK",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/UK.gif"
+        },
+        {
+            "title" : "Ungoverned World",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/UngovernedWorld.jpg"
+        },
+        {
+            "title" : "US Presidential Elections 1928-2012",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/USPresidentialElections1928-2012.GIF"
+        },
+        {
+            "title" : "US Presidential Elections by County",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/political/USPresidentialElectionsByCounty.GIF"
+        }
+    ]
+}

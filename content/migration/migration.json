@@ -1,0 +1,111 @@
+{
+    "title" : "Migration",
+    "content": "content.md",
+    "background" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Migration.jpg",
+    "video" : {
+        "title" : "Migration Video Playlist",
+        "path" : "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbmxb1CnAVEaVdMjvftzacjX"
+    },
+    "links" : [
+    	{
+            "title" : "US Citizenship and Immigration Services",
+            "path" : "https://www.uscis.gov/"
+        },
+        {
+        	"title" : "UN Refugeee Agency",
+        	"path" : " http://www.unhcr.ch/"
+        },
+        {
+        	"title" : "The Refugee Project",
+        	"path" : "http://www.therefugeeproject.org/"
+        },
+        {
+        	"title" : "US Migration Patterns",
+        	"path" : "http://www.forbes.com/special-report/2011/migration.html"
+        },
+        {
+            "title" : "Center for Immigration Studies",
+            "path" : "http:cis.org"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Uprooted",
+    	"path" : "http://storymaps.esri.com/stories/2016/the-uprooted/"
+        }, {
+            "title" : "Katrina",
+            "path" : "http://story.maps.arcgis.com/apps/MapSeries/index.html?appid=597d573e58514bdbbeb53ba2179d2359"
+        }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 3 Key Issue 1",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/migration/Chapter%203%20Key%20Issue%201.mp3"
+        },
+        {
+            "title" : "Chapter 3 Key Issue 2",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/migration/Chapter%203%20Key%20Issue%202.mp3"
+        },
+        {
+            "title" : "Chapter 3 Key Issue 3",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/migration/Chapter%203%20Key%20Issue%203.mp3"
+        },
+        {
+          "title": "Chapter 3 Key Issue 4",
+          "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/migration/Chapter%203%20Key%20Issue%204.mp3"
+        }
+    ],
+    "tagGallery" : [
+        {
+            "title" : "British Empire",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/BritishEmprieGrowth.GIF"
+        },
+        {
+            "title" : "Historic US Migration Patterns",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/HistoricMigrationPatternsToTheUS.GIF"
+        },
+        {
+          "title": "How we came to live together",
+          "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/HowWeCameToLiveTogether.jpeg"
+        },
+        {
+            "title" : "Migration of South Asia",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/MigrationOfSouthAsia.jpeg"
+        },
+        {
+            "title" : "Migration to Britain",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/MigrationToBritian.jpg"
+        },
+        {
+            "title" : "Native American Lands",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/NativeAmericanLands.GIF"
+        },
+        {
+            "title" : "Refugee Children",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/RefugeeChildren.GIF"
+        },
+        {
+            "title" : "Refugee Map",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/RefugeeMap.GIF"
+        },
+        {
+            "title" : "Refugee Sources",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/RefugeeSources.jpeg"
+        },
+        {
+            "title" : "US Migration by Country",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/USMigrationByCountryChart.jpeg"
+        },
+        {
+            "title" : "US Migration Patterns",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/USMigrationPatterns.jpeg"
+        },
+        {
+            "title" : "The Great Migration",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/TheGreatMigration.GIF"
+        },
+        {
+            "title" : "US Migration Patterns Graph",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/migration/USMigrationPatternsGraph.jpeg"
+        }
+    ]
+}

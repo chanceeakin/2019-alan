@@ -1,0 +1,116 @@
+{
+    "title" : "Language",
+    "content": "content.md",
+    "background" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/language.jpg",
+    "video" : {
+        "title" : "Language Video Playlist",
+        "path" : "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbkCE6WoFZQqUprAZ_Cvirp-"
+    },
+    "links" : [
+    	{
+            "title" : "Do you speak American?",
+            "path" : "http://www.pbs.org/speak/"
+        },
+        {
+        	"title" : "Language Matters Mini Series",
+        	"path" : "http://www.languagemattersfilm.com/"
+        },
+        {
+        	"title" : "Endangered Language Map",
+        	"path" : "http://www.endangeredlanguages.com/#/3/27.322/-68.774/0/100000/0/low/mid/high/dormant/awakening/unknown"
+        },
+        {
+        	"title" : "Dialect Maps of the US",
+        	"path" : "http://www.huffingtonpost.com/2013/06/06/dialect-maps_n_3395819.html?slideshow=true#gallery/301484/0"
+        },
+        {
+        	"title" : "BBC Languages",
+        	"path" : "http://www.bbc.co.uk/languages/"
+        },
+        {
+        	"title" : "Pop vs. Soda",
+        	"path" : "http://www.popvssoda.com/"
+        }
+    ],
+    "esri" : [{
+    	"title" : "Esri Story Map",
+    	"path" : "http://storymaps.esri.com/stories/2013/endangered-languages/"
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 5 Key Issue 1",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/language/Chapter%205%20Key%20Issue%201.mp3"
+        },
+        {
+            "title" : "Chapter 5 Key Issue 2",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/language/Chapter%205%20Key%20Issue%202.mp3"
+        },
+        {
+            "title" : "Chapter 5 Key Issue 3",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/language/Chapter%205%20Key%20Issue%203.mp3"
+        },
+        {
+            "title" : "Chapter 5 Key Issue 4",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/language/Chapter%205%20Key%20Issue%204.mp3"
+        }
+    ],
+    "tagGallery" : [
+        {
+            "title" : "Linguistic Map of China",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/ChinaLinguisticMap.jpg"
+        },
+        {
+            "title" : "Diffusion of English",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/DiffusionOfEnglish.jpg"
+        },
+        {
+            "title" : "Hispanics In America",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/HispanicsInAmerica.jpeg.jpg"
+        },
+        {
+            "title" : "Map of Hispanics In America",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/HispanicsInAmericaMap.jpeg.jpg"
+        },
+        {
+            "title" : "Indo-European Language Origin Map",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/IndoEuropeanLanguageOriginMap.jpeg"
+        },
+        {
+            "title" : "Languages",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/Langauges.png"
+        },
+        {
+            "title": "Languages of Europe",
+            "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/LanguagesOfEurope.jpeg"
+        },
+        {
+            "title" : "Languages Of SouthEast Asia",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/LanguagesOfSouthEastAsia.jpeg"
+        },
+        {
+            "title" : "Language Tree",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/LanguageTree.jpeg"
+        },
+        {
+            "title" : "Another Language Tree",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/LanguageTree1.jpeg"
+        },
+        {
+            "title": "Quotation Marks",
+            "path": "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/QuotationMarks.jpg"
+        },
+        {
+            "title" : "Regional Dialects",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/RegionalDialects.jpg"
+        },
+        {
+            "title" : "Slavic Toponyms",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/SlavicToyponms.jpg"
+        },
+        {
+            "title" : "Welsh Language Deterioration",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/language/WelshLanguageDeterioration.jpg"
+        }
+    ]
+}

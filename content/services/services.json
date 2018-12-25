@@ -1,0 +1,80 @@
+{
+    "title" : "Services",
+    "content": "content.md",
+    "background" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/backgrounds/Services.jpeg",
+    "video" : {
+        "title" : "Services Video Playlist",
+        "path" : "https://www.youtube.com/embed/videoseries?list=PL9mwZ0LViSbmbNuBALXdd6m_oZ4RF0yul"
+    },
+    "links" : [
+    	{
+            "title" : "Sample Central Place Requirements",
+            "path" : "http://www.buffalowildwings.com/Franchise/Requirements/"
+        },
+        {
+        	"title" : "Types of Services",
+        	"path" : "https://www.amerilawyer.com/list_business_services.htm"
+        }
+    ],
+    "esri" : [{
+    	"title" : "ESRI: Something Service Related",
+    	"path" : ""
+    }
+    ],
+    "audio" : [
+    	{
+            "title" : "Chapter 12 Key Issue 1",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/services/Chapter%2012%20Key%20Issue%201.mp3"
+        },
+    	{
+            "title" : "Chapter 12 Key Issue 2",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/services/Chapter%2012%20Key%20Issue%202.mp3"
+        },
+    	{
+            "title" : "Chapter 12 Key Issue 3",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/services/Chapter%2012%20Key%20Issue%203.mp3"
+        },
+        {
+            "title" : "Chapter 12 Key Issue 4",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/audio/services/Chapter%2012%20Key%20Issue%204.mp3"
+        }
+    ],
+    "tagGallery" : [
+        {
+            "title" : "Central Place",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/services/CentralPlace.jpeg"
+        },
+        {
+            "title" : "Central Place Theory",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/services/CentralPlaceTheory.jpeg"
+        },
+        {
+            "title" : "Enclosure Movement",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/services/EnclosureMovement.jpeg"
+        },
+        {
+            "title" : "Map of Emerging US Mega Regions",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/services/MapofEmergingUSMegaregions.jpeg"
+        },
+        {
+            "title" : "Periodic Market",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/services/PeriodicMarket.jpeg"
+        },
+        {
+            "title" : "Rise of Service Industry",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/services/RiseOfServiceIndustry.gif"
+        },
+        {
+            "title" : "Rural Settlement Patterns",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/services/RuralSettlementPatterns.jpeg"
+        },
+        {
+            "title" : "Urban Hearths",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/services/UrbanHearths.jpeg"
+        },
+        {
+            "title" : "US Job Breakdown",
+            "path" : "https://ce-cdn-space.sfo2.digitaloceanspaces.com/alan/images/services/UsJobBreakdown.jpeg"
+        }
+    ]
+}
