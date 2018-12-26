@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import MEDIA from 'helpers/mediaTemplates';
 
 export const Container = styled.footer`
   display: flex;
@@ -7,6 +8,9 @@ export const Container = styled.footer`
   width: 100vw;
   height: 25vh;
   background-color: #dedede;
+  ${MEDIA.TABLET`
+    flex-direction: column;
+  `};
 `;
 
 export const Content = styled.div`

@@ -1,32 +1,17 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Container, Title, Video } from './video.css';
-import MEDIA from 'helpers/mediaTemplates';
+import { Container, Title, VideoContainer } from './video.css';
 
-const Audio = ({ video }) => (
-  <Container>
-    <Title>{video.title}</Title>
-    {MEDIA.PHONE ? (
-      <Video
-        title={video.title}
-        height={126}
-        width={224}
-        src={video.path}
-        frameBorder="0"
-        allowFullScreen=""
-      />
-    ) : (
-      <Video
-        title={video.title}
-        height={315}
-        width={560}
-        src={video.path}
-        frameBorder="0"
-        allowFullScreen=""
-      />
-    )}
-  </Container>
-);
+const Audio = ({ video }) => {
+  return (
+    <Container>
+      <Title>{video.title}</Title>
+      <VideoContainer>
+        <iframe title={video.title} src={video.path} allowFullScreen="" />
+      </VideoContainer>
+    </Container>
+  );
+};
 
 Audio.propTypes = {
   video: PropTypes.object.isRequired,

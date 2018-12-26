@@ -25,7 +25,9 @@ const Footer = () => (
     </Container>
     <Bottom>
       <Subtitle>© 2018-2019 Alan Cardon and Chance Eakin</Subtitle>
-      <Github height={32} width={32} />
+      <a href="https://github.com/chanceeakin/2019-alan">
+        <Github height={32} width={32} />
+      </a>
     </Bottom>
   </>
 );
